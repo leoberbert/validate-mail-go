@@ -1,7 +1,4 @@
-# validate-mail-go
-API de Validação de email em GoLang
-
-# API de Validação de email com Flask
+# API de Validação de email em GoLang
 
 API que faz a validação de email e ainda utiliza uma blacklist de palavras inapropriadas.
 
